@@ -13,9 +13,8 @@
 ## General Information
 
 * **Objective:** Manual waste sorting is labor-intensive and error-prone. This project trains a CNN (from-scratch baseline and EfficientNetB0 transfer-learning) to automatically classify images of waste into seven categories, improving recycling rates and reducing landfill contamination.
-* **Dataset:** - **Source:** Public “Waste Segregation” image data (≈7,000 samples in seven folders)  
-- **Download:**  
-  [Google Drive folder of raw images](https://drive.google.com/drive/folders/1sajIcvGxBemqK_YIHFoY28EyV1Su_b5M)   
+* **Dataset:** Public “Waste Segregation” image data (≈7,000 samples in seven folders)  
+* **Download:** [Google Drive folder of raw images](https://drive.google.com/drive/folders/1sajIcvGxBemqK_YIHFoY28EyV1Su_b5M)   
 
 ## Technologies Used
 
